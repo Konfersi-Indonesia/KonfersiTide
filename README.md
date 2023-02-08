@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/Konfersi-Indonesia/KonfersiTide-Trial/main/Picture1.ico" width="215px" align="right" />
 </a>
   <br>
-  <a href="https://github.com/Konfersi-Indonesia/KonfersiTide-Trial/blob/main/README.md">
+  <a href="https://github.com/Konfersi-Indonesia/KonfersiTide/blob/main/README_ENG.md">
     <img src="https://img.shields.io/badge/English-ff8502.svg?style=for-the-badge" /></a>
-  <a href="https://github.com/Konfersi-Indonesia/Konfersi-TideTrial/blob/main/README_ID.md">
+  <a href="https://github.com/Konfersi-Indonesia/KonfersiTide/blob/main/README.md">
     <img src="https://img.shields.io/badge/-bahasa Indonesia-ff00ca.svg?style=for-the-badge" /></a>
 </h1>
 <a href="https://www.youtube.com/channel/UCKlCsfk5rgeJE-tmkljL5ew">
